@@ -21,14 +21,23 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 **Job Search Specialist** — Career Direct Staffing, Remote · Sep 2026 – Present
 - Own a 3-month end-to-end job search engagement for a senior Cloud/DevOps/SRE client: discovery, tailored applications, recruiter and hiring-manager outreach, 24-hour follow-ups, interview coordination and prep, and weekly reporting.
 - Run sourcing sweeps across 30+ job boards, verifying remote wording, salary bands, and posting freshness before shortlisting.
+- Build a tailored resume for every application, fitting each posting's requirements and language from the canonical base.
 - Draft recruiter and hiring-manager outreach; monitor the client inbox for inbound replies and interview invites.
+- Coordinate interviews and prepare the client with research, questions, and follow-up strategy.
 - Track full-funnel metrics (applications, outreach, responses, interviews) and refine strategy weekly.
+
+**Electronic Data Capturing (EDC) Officer** — Research Triangle International (RTI) · Jul 2024
+- Conducted field visits to collect survey data using ODK.
+- Ensured data integrity throughout the data collection process.
+- Prepared detailed reports on survey findings for program teams.
+- Survey findings enhanced program strategies and informed decision-making.
 
 **Programs Officer** — Youth Alive Foundation Africa (USAID, EU & Commonwealth-funded), Remote & Field-based · Mar 2023 – Mar 2024
 - Owned program-level M&E, aligning field activities with donor logframes and results frameworks.
 - Designed transparent beneficiary selection: 500 enrolled from 4,340 applicants, fully documented for audit.
 - Led GBV/VAPP law sensitization campaigns: 87 women reached at St. John's Parish, Uyo, and 116 students at Community Secondary School Four Towns with NAPTIP, including forming a VAPP Law Vanguard in the school.
 - Ran radio awareness campaigns on Inspiration FM with documented audience Q&A.
+- Mentored volunteers, fostering effective advocacy and program support.
 - Documented 100+ program success stories feeding donor reports and future interventions.
 
 **Community System Strengthening & Gender Officer** — Applicants Welfare and Development Centre (USAID-ICHSSA) · Sep 2021 – Feb 2023
@@ -39,19 +48,35 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 - Presented quarterly CSS implementation to CCCRN: targets vs. achievements with catch-up plans.
 - Tracked 300+ vulnerable children at 99% data completeness; trained 5 data clerks and 75 volunteers.
 
+**Independent Evaluator** — Department of NTDS, Federal Ministry of Health (Consultancy) · Mar 2022
+- Conducted a SWOT analysis of the program, assessing strengths, weaknesses, opportunities, and threats.
+- Provided actionable recommendations for program improvement based on the evaluation findings.
+- Developed comprehensive evaluation reports documenting methods, findings, and recommendations.
+- Shared evaluation reports with stakeholders to guide program decisions.
+
 **Monitoring & Evaluation Officer** — Centre for Family Health Initiative (CDC-4GATES) · Jan 2021 – Sep 2023
 - Managed 6,000+ NOMIS records at 98% accuracy through recurring remote quality checks and data mop-ups.
 - Built the HTS program dashboard: 16,176 tested, 3,712 positive, 22.9% yield, with KPI cards and trend charts.
 - Led quarterly Data Quality Assessments across DHIS2 and NOMIS, resolving 200+ annotation errors pre-submission.
 - Designed M&E tools: volunteer service tracking across FCT communities and an OVC educational performance assessment workbook with standardized dropdowns.
 - Compiled PEPFAR OVC custom indicator workbooks with age/sex-disaggregated quarterly reporting.
+- Trained and supervised 5 data clerks and 75 volunteers on data collection platforms including KoboCollect and DHIS2.
 
 **Monitoring & Evaluation Assistant** — Centre for Family Health Initiative (CDC-ACHIEVE) · Jan 2019 – Jan 2020
 - Wrote monthly program activity reports covering PSS, life-skills, and viral load monitoring across 6 facilities.
 - Reviewed 500+ data points, correcting 40+ discrepancies before central submission.
+- Coached volunteers on form completion and reporting protocols.
+- Maintained a complete, organized document inventory within the NOMIS database, ensuring efficient remote retrieval for audits.
+- Supported quarterly Data Quality Assessments that improved data cleanliness by 15% across three implementation sites.
+- Assisted in the administration of mobile data collection tools for household and case-level data gathering across field sites.
 
 **Data Clerk (Volunteer)** — Centre for Family Health Initiative, Abuja · 2018 – 2019
 - Entered and verified 1,000+ records at under 1% error rate.
+- Organized registers, cutting document retrieval time by 40%.
+- Supported the M&E team in training community caseworkers on basic data entry, form completion, and reporting protocols.
+- Kept an inventory of documents and registers for the project team.
+- Provided weekly and monthly reports to the supervisor.
+- Managed the Orphans and Vulnerable Children database (NOMIS).
 
 ## Education & Certifications
 
