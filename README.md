@@ -18,13 +18,14 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 
 ## Professional Experience
 
-**Job Search Specialist** — Career Direct Staffing, Remote · Sep 2026 – Present
-- Own a 3-month end-to-end job search engagement for a senior Cloud/DevOps/SRE client: discovery, tailored applications, recruiter and hiring-manager outreach, 24-hour follow-ups, interview coordination and prep, and weekly reporting.
-- Run sourcing sweeps across 30+ job boards, verifying remote wording, salary bands, and posting freshness before shortlisting.
-- Build a tailored resume for every application, fitting each posting's requirements and language from the canonical base.
-- Draft recruiter and hiring-manager outreach; monitor the client inbox for inbound replies and interview invites.
-- Coordinate interviews and prepare the client with research, questions, and follow-up strategy.
-- Track full-funnel metrics (applications, outreach, responses, interviews) and refine strategy weekly.
+**Job Search Specialist** — Career Direct Staffing, Remote · Sep 2026 – Oct 2026
+- Led end-to-end job search work: tailored applications, recruiter and hiring-manager outreach, follow-ups, interview coordination, and weekly reporting.
+- Ran sourcing sweeps across 30+ job boards, verifying remote wording, salary bands, and posting freshness before shortlisting.
+- Built a tailored resume for every application, fitting each posting's requirements and language from the canonical base.
+- Drafted recruiter and hiring-manager outreach; monitored inbox for inbound replies and interview invites.
+- Coordinated interviews and interview preparation, including research, questions, and follow-up strategy.
+- Tracked full-funnel metrics (applications, outreach, responses, interviews) and refined strategy weekly.
+- Delivered the strongest week of the engagement in Week 8: 110 applications submitted, 45 companies contacted or followed up with, and 7 HR responses received.
 
 **Electronic Data Capturing (EDC) Officer** — Research Triangle International (RTI) · Jul 2024
 - Conducted field visits to collect survey data using ODK.
