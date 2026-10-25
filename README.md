@@ -56,6 +56,9 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 - Provided actionable recommendations for program improvement based on the evaluation findings.
 - Developed comprehensive evaluation reports documenting methods, findings, and recommendations.
 - Shared evaluation reports with stakeholders to guide program decisions.
+- Interviewed all department heads in the Akwa Ibom State civil service at the State Ministry of Health as part of the evaluation.
+- Interviewed the State Neglected Tropical Diseases (NTDs) team on budget implementation and the 2022 workplan.
+- Reviewed implementation and action plans and carried out risk assessments on them.
 
 **Monitoring & Evaluation Officer** — Centre for Family Health Initiative (CDC-4GATES) · Jan 2021 – Sep 2023
 - Managed 6,000+ NOMIS records at 98% accuracy through recurring remote quality checks and data mop-ups.
