@@ -8,13 +8,23 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 ## Core Competencies
 
 - Monitoring, Evaluation & Learning (MEL) system design
-- Data Quality Assessments (DQAs) and data quality audits
-- Digital data collection: DHIS2, KoboCollect, ODK Collect, NOMIS, CommCare, REDCap
 - Indicator tracking, logframes, and results frameworks
-- Training and supervision of data clerks, volunteers, and field teams
-- Donor reporting and compliance (USAID, CDC, EU, Commonwealth)
-- Program documentation, success stories, and knowledge products
-- Remote program operations and multi-stakeholder coordination
+- Data Quality Assessments (DQA) and data mop-ups
+- Donor reporting (USAID, CDC/PEPFAR, EU, Commonwealth)
+- PEPFAR OVC indicator reporting, with age/sex disaggregation
+- Program evaluation, including SWOT analysis and risk assessment
+- Community systems strengthening and case-finding
+- GBV/VAPP prevention, gender norms, and child protection programming
+- Stakeholder and key-informant interviewing
+- Training, supervision, and volunteer mentoring
+- Remote and field team coordination
+
+## Technical Skills
+
+- Data collection: KoboCollect, ODK Collect, CommCare
+- Health information systems: DHIS2, NOMIS
+- Analysis and visualization: Advanced Excel, Power BI (dashboards, KPI cards, trend charts)
+- Tool development: M&E tracking workbooks, beneficiary databases, and registers
 
 ## Professional Experience
 
