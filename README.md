@@ -27,11 +27,14 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 - Tracked full-funnel metrics (applications, outreach, responses, interviews) and refined strategy weekly.
 - Delivered the strongest week of the engagement in Week 8: 110 applications submitted, 45 companies contacted or followed up with, and 7 HR responses received.
 
-**Electronic Data Capturing (EDC) Officer** — Research Triangle International (RTI) · Jul 2024
+**Electronic Data Manager** — Research Triangle International (RTI) · Jul 2024
 - Conducted field visits to collect survey data using ODK.
 - Ensured data integrity throughout the data collection process.
 - Prepared detailed reports on survey findings for program teams.
 - Survey findings enhanced program strategies and informed decision-making.
+- Managed the data collection process for the evaluation.
+- Interviewed beneficiaries, stakeholders, and implementing partners of the NTDS vaccine programme.
+- Tested infected persons, collected samples, and administered vaccinations to them.
 
 **Programs Officer** — Youth Alive Foundation Africa (USAID, EU & Commonwealth-funded), Remote & Field-based · Mar 2023 – Mar 2024
 - Owned program-level M&E, aligning field activities with donor logframes and results frameworks.
