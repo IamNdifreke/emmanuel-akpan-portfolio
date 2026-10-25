@@ -37,12 +37,14 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 - Owned program-level M&E, aligning field activities with donor logframes and results frameworks.
 - Designed transparent beneficiary selection: 500 enrolled from 4,340 applicants, fully documented for audit.
 - Led GBV/VAPP law sensitization campaigns: 87 women reached at St. John's Parish, Uyo, and 116 students at Community Secondary School Four Towns with NAPTIP, including forming a VAPP Law Vanguard in the school.
+- Carried out community awareness work to discourage FGM practices among women, as part of gender and community work.
 - Ran radio awareness campaigns on Inspiration FM with documented audience Q&A.
 - Mentored volunteers, fostering effective advocacy and program support.
 - Documented 100+ program success stories feeding donor reports and future interventions.
 
 **Community System Strengthening & Gender Officer** — Applicants Welfare and Development Centre (USAID-ICHSSA) · Sep 2021 – Feb 2023
 - Led community case-finding with 30+ traditional birth attendants; 95% linkage of positive cases to care.
+- Carried out community awareness work to discourage FGM practices among women, as part of gender and community work.
 - Ran gender norms sessions reaching 1,092 participants across 15 communities in 4 LGAs.
 - Facilitated birth registration for 200 OVC across 4 LGAs through the National Population Commission.
 - Set up community child protection committees and coordinated LGA task teams tackling teenage pregnancy and child neglect in Udung Uko and Okobo.
@@ -59,6 +61,7 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 - Managed 6,000+ NOMIS records at 98% accuracy through recurring remote quality checks and data mop-ups.
 - Built the HTS program dashboard: 16,176 tested, 3,712 positive, 22.9% yield, with KPI cards and trend charts.
 - Led quarterly Data Quality Assessments across DHIS2 and NOMIS, resolving 200+ annotation errors pre-submission.
+- Carried out community awareness work to discourage FGM practices among women, as part of gender and community work.
 - Designed M&E tools: volunteer service tracking across FCT communities and an OVC educational performance assessment workbook with standardized dropdowns.
 - Compiled PEPFAR OVC custom indicator workbooks with age/sex-disaggregated quarterly reporting.
 - Trained and supervised 5 data clerks and 75 volunteers on data collection platforms including KoboCollect and DHIS2.
