@@ -18,6 +18,7 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 - Stakeholder and key-informant interviewing
 - Training, supervision, and volunteer mentoring
 - Remote and field team coordination
+- Data labelling and annotation for AI training data
 
 ## Technical Skills
 
@@ -25,6 +26,7 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 - Health information systems: DHIS2, NOMIS
 - Analysis and visualization: Advanced Excel, Power BI (dashboards, KPI cards, trend charts)
 - Tool development: M&E tracking workbooks, beneficiary databases, and registers
+- Data annotation: Labelbox, SuperAnnotate, pairwise comparison and relevance labelling
 
 ## Professional Experience
 
@@ -36,6 +38,20 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 - Coordinated interviews and interview preparation, including research, questions, and follow-up strategy.
 - Tracked full-funnel metrics (applications, outreach, responses, interviews) and refined strategy weekly.
 - Delivered the strongest week of the engagement in Week 8: 110 applications submitted, 45 companies contacted or followed up with, and 7 HR responses received.
+
+**Data Labeler & Annotator (Preference Ranking)** — OuterLAI (Omni ELO Evaluation), Remote · Dec 2025 – Apr 2026
+- Labeled 3,500+ pairwise comparison responses for LLM outputs, contributing to the Omni ELO evaluation.
+- Achieved 94% inter-annotator agreement with gold-standard labels after 2 weeks of calibration, exceeding the project target of 90%.
+- Processed 70+ comparison pairs per 6-hour shift, maintaining 98% daily throughput consistency with zero unexcused backlog.
+- Participated in weekly rubric refinement sessions, proposing 12+ edge-case clarifications that reduced team-wide label disputes by 25%.
+- Flagged 150+ potentially harmful or contradictory model responses, supporting safety evaluation metrics.
+
+**Data Labeler & Annotator (Search Relevance)** — Appen, Remote · Dec 2024 – Apr 2025
+- Labeled 3,200+ query-document pairs using a 5-point relevance scale (Perfect to Irrelevant), improving search algorithm training data.
+- Achieved 94% agreement with gold-standard judgments after 2 weeks of calibration, exceeding the project target of 90%.
+- Processed 65+ relevance judgments per hour while maintaining a 97% daily quality score across 5 months.
+- Flagged 120+ instances of position bias and low-quality results, contributing to updated rating guidelines adopted by 15+ raters.
+- On Project Hibiscus: annotated 1,300+ multimodal items (ad relevance, image classification, sentiment); maintained 96% inter-annotator agreement on complex edge cases; completed 200+ audio transcription tasks with 98% word accuracy.
 
 **Electronic Data Manager** — Research Triangle International (RTI) · Jul 2024
 - Conducted field visits to collect survey data using ODK.
