@@ -70,6 +70,7 @@ I am a Public Health and MEL professional with 6+ years designing, implementing,
 - Ran radio awareness campaigns on Inspiration FM with documented audience Q&A.
 - Mentored volunteers, fostering effective advocacy and program support.
 - Documented 100+ program success stories feeding donor reports and future interventions.
+- Used Canva to produce program communications materials, including sensitization and campaign visuals.
 
 **Community System Strengthening & Gender Officer** — Applicants Welfare and Development Centre (USAID-ICHSSA) · Sep 2021 – Feb 2023
 - Led community case-finding with 30+ traditional birth attendants; 95% linkage of positive cases to care.
